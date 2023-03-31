@@ -1,6 +1,6 @@
 Name:		texlive-shdoc
 Version:	41991
-Release:	1
+Release:	2
 Summary:	Float environment to document the shell commands of a terminal session
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shdoc
