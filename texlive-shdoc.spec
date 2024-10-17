@@ -3,7 +3,7 @@ Version:	41991
 Release:	2
 Summary:	Float environment to document the shell commands of a terminal session
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shdoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/shdoc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shdoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/shdoc.doc.r%{version}.tar.xz
